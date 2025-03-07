@@ -1,5 +1,5 @@
-int a = input ()
-int b = input()
+ a = int(input ())
+ b = int(input())
 if b > a:
   print(f"b is a greater than a {b}")
 elif a == b:
